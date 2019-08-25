@@ -1,4 +1,4 @@
-This repo contains files cloned from Apple's Vision and Core ML example app. Python files used to build a new custom image classifier are in the [py](/py) folder. These files are alos included in appendix 1 of the thesis. 
+This repo contains files cloned from Apple's Vision and Core ML example app. Python files used to build a new custom image classifier are in the [py](/py) folder. These files are also included in appendix 1 of the thesis. 
 
 # Classifying Images with Vision and Core ML
 
